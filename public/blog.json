@@ -1,0 +1,102 @@
+[
+  {
+    "id": 101,
+    "title": "Introduction to Python",
+    "authorName": "John Doe",
+    "authorImageAvatar": "https://i.pravatar.cc/150?img=10",
+    "courseThumbnail": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg",
+    "postDate": "2024-02-01",
+    "readingTime": 8,
+    "hasTag": ["Python", "Programming", "Beginner"]
+  },
+  {
+    "id": 102,
+    "title": "Mastering Data Structures",
+    "authorName": "Jane Smith",
+    "authorImageAvatar": "https://i.pravatar.cc/150?img=20",
+    "courseThumbnail": "https://images.pexels.com/photos/3183165/pexels-photo-3183165.jpeg",
+    "postDate": "2024-01-15",
+    "readingTime": 10,
+    "hasTag": ["Data Structures", "Algorithms", "Intermediate"]
+  },
+  {
+    "id": 103,
+    "title": "Web Development with JavaScript",
+    "authorName": "Alice Johnson",
+    "authorImageAvatar": "https://i.pravatar.cc/150?img=30",
+    "courseThumbnail": "https://images.pexels.com/photos/540518/pexels-photo-540518.jpeg",
+    "postDate": "2024-03-10",
+    "readingTime": 12,
+    "hasTag": ["JavaScript", "Web Development", "Frontend"]
+  },
+  {
+    "id": 104,
+    "title": "Deep Learning Basics",
+    "authorName": "Bob Lee",
+    "authorImageAvatar": "https://i.pravatar.cc/150?img=40",
+    "courseThumbnail": "https://images.pexels.com/photos/256379/pexels-photo-256379.jpeg",
+    "postDate": "2024-02-28",
+    "readingTime": 15,
+    "hasTag": ["AI", "Deep Learning", "Machine Learning"]
+  },
+  {
+    "id": 105,
+    "title": "Understanding Cloud Computing",
+    "authorName": "Charlie Kim",
+    "authorImageAvatar": "https://i.pravatar.cc/150?img=50",
+    "courseThumbnail": "https://images.pexels.com/photos/691447/pexels-photo-691447.jpeg",
+    "postDate": "2024-04-01",
+    "readingTime": 9,
+    "hasTag": ["Cloud", "AWS", "Azure"]
+  },
+  {
+    "id": 106,
+    "title": "React for Beginners",
+    "authorName": "Emily Davis",
+    "authorImageAvatar": "https://i.pravatar.cc/150?img=60",
+    "courseThumbnail": "https://images.pexels.com/photos/3861955/pexels-photo-3861955.jpeg",
+    "postDate": "2024-03-15",
+    "readingTime": 7,
+    "hasTag": ["React", "JavaScript", "Web Development"]
+  },
+  {
+    "id": 107,
+    "title": "Node.js Crash Course",
+    "authorName": "Frank White",
+    "authorImageAvatar": "https://i.pravatar.cc/150?img=70",
+    "courseThumbnail": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg",
+    "postDate": "2024-05-10",
+    "readingTime": 11,
+    "hasTag": ["Node.js", "Backend", "JavaScript"]
+  },
+  {
+    "id": 108,
+    "title": "Intro to Blockchain",
+    "authorName": "Grace Lee",
+    "authorImageAvatar": "https://i.pravatar.cc/150?img=80",
+    "courseThumbnail": "https://images.pexels.com/photos/1103535/pexels-photo-1103535.jpeg",
+    "postDate": "2024-06-05",
+    "readingTime": 13,
+    "hasTag": ["Blockchain", "Cryptocurrency", "Technology"]
+  },
+  {
+    "id": 109,
+    "title": "Cybersecurity Essentials",
+    "authorName": "Henry Adams",
+    "authorImageAvatar": "https://i.pravatar.cc/150?img=90",
+    "courseThumbnail": "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg",
+    "postDate": "2024-07-10",
+    "readingTime": 14,
+    "hasTag": ["Cybersecurity", "IT", "Security"]
+  },
+  {
+    "id": 110,
+    "title": "Mobile App Development with Flutter",
+    "authorName": "Isabel Thomas",
+    "authorImageAvatar": "https://i.pravatar.cc/150?img=100",
+    "courseThumbnail": "https://images.pexels.com/photos/1647917/pexels-photo-1647917.jpeg",
+    "postDate": "2024-08-01",
+    "readingTime": 16,
+    "hasTag": ["Flutter", "Mobile Development", "Programming"]
+  }
+]
